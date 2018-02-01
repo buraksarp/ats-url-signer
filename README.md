@@ -1,4 +1,4 @@
-Apache Traffic Server Url Signer 4j
+Apache Traffic Server URL Signer 4j
 ========
 
 [![Apache License](http://img.shields.io/badge/license-ASL-blue.svg)](https://github.com/buraksarp/ats-url-signer/blob/master/LICENSE)
@@ -13,14 +13,14 @@ Usage
 We will be at Maven Central Repository soon:
 ```xml
 <dependency>
-  <groupId>io.github.buraksarp.urlsigner</groupId>
+  <groupId>io.github.buraksarp</groupId>
   <artifactId>urlsigner</artifactId>
   <version>1.0</version>
 </dependency>
 ```
 or Gradle:
 ```groovy
-compile 'io.github.buraksarp.urlsigner:urlsigner:1.0'
+compile 'io.github.buraksarp:urlsigner:1.0'
 ```
 
 Supported Operations & Examples
